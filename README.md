@@ -9,5 +9,4 @@ Developer for Ivey FinTech Club (https://iveyfintechclub.ca/index.html), current
 Feel free to reach out if you have any questions or you want to collaborate!
 
 LinkedIn: linkedin.com/in/tyleramirault 
-
 Mail: tamirault.hba2023@ivey.ca
