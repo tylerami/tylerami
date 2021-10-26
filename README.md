@@ -9,6 +9,5 @@ Currently working as a back-end engineer for the BGC London online education pla
 
 Feel free to reach out if you have any questions or you want to collaborate!
 
-LinkedIn: [linkedin.com/in/tyleramirault](url)
-
+LinkedIn: [linkedin.com/in/tyleramirault](url) ||
 Mail: tamirault.hba2023@ivey.ca
