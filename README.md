@@ -1,8 +1,8 @@
-###Hello!
+### Hello!
 
 I'm a Software Engineering and Honors Business Administration Candiate at Western University and Ivey Business School.
 
-##Founder and creator of HotTakes Sports ([apple.co/2VloCte](http://apple.co/2VloCte) // [hot-takes.net](http://hot-takes.net)), the social media for sports fans.
+## Founder and creator of HotTakes Sports ([apple.co/2VloCte](http://apple.co/2VloCte) // [hot-takes.net](http://hot-takes.net)), the social media for sports fans.
 
 Developer for Ivey FinTech Club ([iveyfintechclub.ca](http://iveyfintechclub.ca/index.html));
 Currently working as a back-end engineer for the BGC London online education platform and event managing service.
