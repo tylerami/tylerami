@@ -1,4 +1,4 @@
-### Hello!
+# Hello!
 
 I'm a Software Engineering and Honors Business Administration Candiate at Western University and Ivey Business School.
 
