@@ -1,15 +1,19 @@
-# Hello!
+# Hello! My name's Tyler!
 
-I'm a Software Engineering and Honors Business Administration Candiate at Western University and Ivey Business School.
+## I'm a Software Engineering and Honors Business Administration Candiate at Western University and Ivey Business School.
 
-## Founder and creator of HotTakes Sports ([apple.co/2VloCte](http://apple.co/2VloCte) // [hot-takes.net](http://hot-takes.net)), the social media for sports fans.
+See what I've been building by browsing my [portfolio!](https://tyleramirault.com)
 
-Developer for Ivey FinTech Club ([iveyfintechclub.ca](http://iveyfintechclub.ca/index.html));
+### Founder and creator of HotTakes Sports, the social media for sports fans.
+Check it out here: [App Store](http://apple.co/2VloCte) / [Website](http://hot-takes.net)
+
+### Developer for [Ivey FinTech Club](http://iveyfintechclub.ca/index.html);
 Currently working as a back-end engineer for the BGC London online education platform and event managing service.
 
-2x Winner of Hack Western 8 - Check out our Devpost for ShelterFirst at [devpost.com/software/shelterfirst](https://devpost.com/software/shelterfirst).
+### 2x Winner of Hack Western 8 - Check out our Devpost for ShelterFirst [here](https://devpost.com/software/shelterfirst).
 
 ## Feel free to reach out if you have any questions or you want to collaborate!
 
-LinkedIn: [linkedin.com/in/tyleramirault](http://linkedin.com/in/tyleramirault) |
-Mail: tamirault.hba2023@ivey.ca
+[LinkedIn](http://linkedin.com/in/tyleramirault)
+
+[Email](mailto:tamirault.hba2023@ivey.ca)
