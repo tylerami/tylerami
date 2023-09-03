@@ -1,19 +1,28 @@
-# Hello! My name's Tyler!
+# Hello! I'm Tyler! 👋
 
-## I'm a Software Engineering and Honors Business Administration Candiate at Western University and Ivey Business School.
+In my 5th year of a dual-degree program in **Software Engineering and Business Administration** at **Ivey Business School, Western University**. With a history of building applications and driving innovative solutions, I am deeply passionate about creating borderless, internet-native commerce networks. Bitcoin, Lightning Network, and decentralized payment technologies are close to my heart, and I'm eager to continue my journey in this realm.
 
-See what I've been building by browsing my [portfolio!](https://tyleramirault.com)
+## 🚀 Current Projects & Experience
 
-### Founder and creator of HotTakes Sports, the social media for sports fans.
-Check it out here: [App Store](http://apple.co/2VloCte) / [Website](http://hot-takes.net)
+- **Founder, CEO, and CTO of [HotTakes Sports](http://hottakesapp.com)**: A free-to-play fantasy sports game built in Flutter, aiming to simplify sports gaming for beginners. Successfully pitched and secured seed investment, led a team for sports data integration, and engineered a robust prize fulfillment system.
 
-### Developer for [Ivey FinTech Club](http://iveyfintechclub.ca/index.html);
-Currently working as a back-end engineer for the BGC London online education platform and event managing service.
+- **2x Software Engineer Intern at [Block (formerly Square)](https://block.xyz)**: Enabled improvements in the company-wide feature flag infrastructure, facilitated custom inventory adjustment types, and significantly reduced API calls.
 
-### 2x Winner of Hack Western 8 - Check out our Devpost for ShelterFirst [here](https://devpost.com/software/shelterfirst).
+## 🌍 My Passion
 
-## Feel free to reach out if you have any questions or you want to collaborate!
+I'm passionate about **borderless commerce** which has drawn me to technologies like **Bitcoin and the Lightning Network**. Check out my project on a decentralized paywall mechanism using Decentralized Identifiers (DIDs) and the Bitcoin Lightning Network [here](https://github.com/tylerami/lightning-did-paywall).
 
-[LinkedIn](http://linkedin.com/in/tyleramirault)
+## 🏆 Accolades
 
-[Email](mailto:tamirault.hba2023@ivey.ca)
+- 2x Winner of Hack Western 8 - Details on our project, ShelterFirst, can be found [here](https://devpost.com/software/shelterfirst).
+- RBC Scholarship in Software Engineering recipient for outstanding academic achievement.
+- MacKay-Lassonde Award in Computer Engineering for exemplary leadership and achievement.
+
+## 🔗 Connect & Reach Out
+
+- [Portfolio](https://tyleramirault.com)
+- [LinkedIn](http://linkedin.com/in/tyleramirault)
+- [Email](mailto:tamirault.hba2024@ivey.ca)
+
+Thank you for stopping by! Always open for collaboration and discussions on Bitcoin and decentralized technologies.
+
