@@ -1,6 +1,6 @@
 # Hello! I'm Tyler! 👋
 
-In my 5th year of a dual-degree program in **Software Engineering and Business Administration** at **Ivey Business School, Western University**. With a history of building applications and driving innovative solutions, I am deeply passionate about creating borderless, internet-native commerce networks. Bitcoin, Lightning Network, and decentralized payment technologies are close to my heart, and I'm eager to continue my journey in this realm.
+In my 5th year of a dual-degree program in **Software Engineering and Business Administration** at **Ivey Business School, Western University**. With a history of building applications and driving innovative solutions, I am deeply passionate about building borderless, internet-native commerce applications. I believe Bitcoin, the Lightning Network, and decentralized payment technologies will improve how money works on a global scale. 
 
 ## 🚀 Current Projects & Experience
 
